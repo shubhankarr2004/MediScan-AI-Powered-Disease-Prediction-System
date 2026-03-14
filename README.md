@@ -37,6 +37,20 @@ MedicalChatbot/
 │── symptom_precaution.csv    # Precautionary measures
 │── symptom_Description.csv   # Disease descriptions
 ```
+ML Pipeline
+
+Data Collection
+↓
+Symptom Encoding
+↓
+Model Training (Random Forest)
+↓
+Evaluation
+↓
+Model Serialization
+↓
+Prediction Interface
+
 ---
 
 ## ⚡ Installation & Setup
