@@ -41,10 +41,7 @@ MedicalChatbot/
 
 ## ⚡ Installation & Setup
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/MedicalChatbot.git
-   cd MedicalChatbot
-   ```
+ git clone https://github.com/shubhankarr2004/MediScan-AI-Powered-Disease-Prediction-System
 
 2. Install dependencies:
    ```bash
