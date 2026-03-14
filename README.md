@@ -37,18 +37,18 @@ MedicalChatbot/
 │── symptom_precaution.csv    # Precautionary measures
 │── symptom_Description.csv   # Disease descriptions
 ```
-ML Pipeline
+**ML Pipeline**
 
 Data Collection
-↓
+->
 Symptom Encoding
-↓
+->
 Model Training (Random Forest)
-↓
+->
 Evaluation
-↓
+->
 Model Serialization
-↓
+->
 Prediction Interface
 
 ---
@@ -60,7 +60,7 @@ Prediction Interface
 2. Install dependencies:
   
    ```bash
-   pip install numpy pandas scikit-learn
+   pip install -r requirements.txt
    ```
 
 3. Run the GUI version:
