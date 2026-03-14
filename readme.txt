@@ -44,11 +44,7 @@ MedicalChatbot/
  git clone https://github.com/shubhankarr2004/MediScan-AI-Powered-Disease-Prediction-System
 
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Or manually:
+  
    ```bash
    pip install numpy pandas scikit-learn
    ```
@@ -86,11 +82,6 @@ MedicalChatbot/
 
 ---
 
-## 📸 Screenshots (GUI)
-> *(Add screenshots of your Tkinter windows here after running the app!)*
-
----
-
 ## 🔮 Future Enhancements
 - Integration with **real-time medical APIs**.  
 - Improved accuracy with **Deep Learning models**.  
@@ -101,7 +92,8 @@ MedicalChatbot/
 
 ## 👨‍💻 Author
 Shubhankar Singh
-📌 Connect on [LinkedIn](www.linkedin.com/in/shubhankarr) | 🐙 [GitHub](https://github.com/shubhankarr2004)  
+📌 Connect on [LinkedIn](www.linkedin.com/in/shubhankarr)
+🐙 [GitHub](https://github.com/shubhankarr2004)  
 
 ---
 
